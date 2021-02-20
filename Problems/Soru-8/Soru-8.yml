@@ -1,0 +1,5 @@
+Kullanıcıya 1 ile 1000 arasında tuttuğu bir tam sayıyı buldurmaya çalışan bir oyun programı yazınız. Programın tuttuğu sayı 35’dir. 
+Kullanıcı bunu bilmemektedir ve sayıyı tahmin için deneme sayıları girmektedir. Program çalıştırıldığında kullanıcı tarafında girilen sayı
+tutulan sayıdan büyükse ekrana “büyük”, küçük ise “küçük” yazmalıdır ve kullanıcıdan girdi almaya devam etmelidir. 
+Eğer kullanıcı doğru sayıyı bilirse, program “kazandınız” yazacak ve sayının kaç denemede bulunduğunu ekranda göstererek oyunu sona 
+erdirecektir. (10 Puan)

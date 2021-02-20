@@ -1,0 +1,9 @@
+Bir halıcı çocuk odaları için üç ayrı tip halı satmaktadır. Bu halıların tipi, kodu ve metrekare birim fiyatları aşağıda verilmiştir.
+
+ Halı Tipi:	Kodu:	 Metrekare Birim Fiyatı:
+Tweety	T	18.80 TL
+BugsBunny	B	17.80 TL
+Spiderman	S	19.20 TL
+
+Sipariş alınan halı tipi ve döşenecek alanın metrekaresi girildiğinde ödenmesi gereken ücreti görüntüleyen bir C programını if-else 
+yapısını kullanarak yazınız. (10 Puan)

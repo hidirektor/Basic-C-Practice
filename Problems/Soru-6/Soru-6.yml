@@ -1,0 +1,7 @@
+Aşağıda verilen matematiksel işlemin sonucunun do–while döngüleri kullanılarak elde edilmesini ve elde edilen toplam sonucun ekrana 
+gösterilmesini sağlayan C programını yazınız? (10 Puan)
+𝑁   𝑀
+∑ ∑(𝑖2 + 2𝑖𝑗 + 𝑗2)
+𝑖=1 𝑗=1
+
+Not: N ve M değeri kullanıcı tarafından girilecektir. Yukarıda verilen sembol matematikte toplam sembolüdür.

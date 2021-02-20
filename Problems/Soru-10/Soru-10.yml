@@ -1,0 +1,3 @@
+alfa ve beta değişkenlerine iki tamsayıyı girdi olarak alan ve daha sonra bu iki değişken değerlerinin yerini değiştiren bir C programı
+yazınız. Örneğin, alfa değişkenine 16 ve beta değişkenine 38 değerlerinin girildiğini düşünelim, bu durumda programınız alfa değişken 
+değerini 38 ve beta değişken değerini 16 olarak değiştirmelidir. (10 Puan)

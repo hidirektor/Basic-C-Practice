@@ -1,0 +1,9 @@
+Kullanıcı tarafından girilen bir N pozitif tamsayısının küpünü ve bu N sayısına kadar olan tamsayıların (N dâhil) kareleri toplamını 
+hesaplayan fonksiyon prototipleri aşağıda verilmiştir. Buna göre gerekli fonksiyonları yazınız ve C programı içerisinde kullanınız? 
+(10 Puan)
+Fonksiyon Prototipleri:
+int kup(int sayi);
+int kareler_toplami(int sayi);
+
+Not: Prototiplere dikkat edildiğinde iki ayrı fonksiyon yazılacağı açıktır. Fonksiyonları yazdıktan sonra ana program içerisinden 
+fonksiyonları çağırmayı unutmayınız.

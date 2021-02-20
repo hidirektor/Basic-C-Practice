@@ -1,0 +1,9 @@
+ Onlar basamağı 8 olan ve 3’e tam bölünen 3 basamaklı sayıların toplamını bulan ve toplam sonucunu ekrana gösteren C programını yazınız.
+ (10 Puan)
+
+İpucu: İç içe for döngüsü kullanarak 3 basamaklı sayı oluşturabilirsiniz. Sayının onlar basamağının 8 olup olmadığını kontrol etmeniz 
+gerekmektedir. Ayrıca 3 basamaklı sayının 3’e bölünüp bölünmediğini de kontrol etmeniz gerekiyor.
+
+Sayi = 100*a+10*b+c
+
+Not: Yan tarafta verilen ekran çıktısını dikkate alabilirsiniz.

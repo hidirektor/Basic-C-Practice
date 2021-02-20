@@ -1,0 +1,7 @@
+Bir futbol takımının 10 haftalık maç istatistikleri aşağıda verilen dizide tutulmaktadır. Bu dizide "2" ler galibiyetleri, "1" ler 
+mağlubiyetleri, "0" lar ise beraberlikleri belirtmektedir. Bu takımın küme düşmemesi için 12 puan alması gerekmektedir. 
+Verilenlere göre bu takım 10 hafta sonunda kümede kalıp kalmadığını puanı ile birlikte ekrana yazan programı C dilinde yazınız. (10 Puan)
+
+2	1	0	0	2	1	1	2	1	0
+
+Not: Galibiyetlere 3 puan, beraberliklere 1 puan, mağlubiyetlere de 0 puan verilecektir. İşlemler dizi kullanılarak gerçekleştirilecektir.

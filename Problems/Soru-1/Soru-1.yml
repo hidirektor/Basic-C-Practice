@@ -1,0 +1,5 @@
+Bir yumurta dağıtım şirketinde sabit bir maaşla çalışan plasiyerin 2 çocuğu bulunmaktadır. 
+Plasiyer aylık ortalama 2500 TL lik satış yapmaktadır. Plasiyer 2 çocuğa sahip olduğundan, maaşının %4’ü çocuk yardımı olarak 
+maaşına eklenmektedir. Ayrıca, aylık ortalama 2000-3000 TL arasında satış yaptığından maaşının %6’sı da prim olarak maaşına eklenmektedir. 
+Verilen bu bilgiler doğrultusunda plasiyerin toplam maaşını hesaplayan bir C programını yazınız. (10 Puan)
+Not: Plasiyerin ham maaşı kullanıcı tarafından klavyeden girilecektir! Bu bilgiye göre gerekli hesaplama yapılacaktır.
